@@ -8,11 +8,13 @@
 
 **性别**：男
 
+**年龄**：23
+
 **学校专业**：杭州师范大学 - 国际服务工程学院 - 计算机科学与技术专业
 
 **Github**：[https://github.com/Dev-iOS-Study](https://github.com/Dev-iOS-Study)
 
-**iOS学习资源**：
+##iOS学习资源
 
   * [百度云:李明杰-广州创业一期iOS教程-C语言](http://pan.baidu.com/s/1o6Adah8)        (讲师：李德山)   
   
