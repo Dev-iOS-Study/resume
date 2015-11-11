@@ -14,25 +14,25 @@
 
 **iOS学习资源**：
 
-  * [百度云:李明杰-广州创业一期iOS教程-C语言](http://pan.baidu.com/s/1o6Adah8) (讲师：李德山)   
+  * [百度云:李明杰-广州创业一期iOS教程-C语言](http://pan.baidu.com/s/1o6Adah8)        (讲师：李德山)   
   
-  * [百度云:李明杰-广州创业一期iOS教程-OC基础](http://pan.baidu.com/s/1dD4VHy5) (讲师：赵凯) 
+  * [百度云:李明杰-广州创业一期iOS教程-OC基础](http://pan.baidu.com/s/1dD4VHy5)       (讲师：李德山) 
  
-  * [百度云:李明杰-广州创业一期iOS教程-OC加强](http://pan.baidu.com/s/1ogQfG) (讲师：赵凯) 
+  * [百度云:李明杰-广州创业一期iOS教程-OC加强](http://pan.baidu.com/s/1ogQfG)         (讲师：______) 
 
-  * [百度云:李明杰-广州创业一期iOS教程-UI基础](http://pan.baidu.com/s/1jG511Jo) (讲师：李德山)
+  * [百度云:李明杰-广州创业一期iOS教程-UI基础](http://pan.baidu.com/s/1jG511Jo)       (讲师：李德山)
 
-  * [百度云:李明杰-广州创业一期iOS教程-UI进阶](http://pan.baidu.com/s/1hqm8GSG) (讲师：李德山)
+  * [百度云:李明杰-广州创业一期iOS教程-UI进阶](http://pan.baidu.com/s/1hqm8GSG)       (讲师：李德山)
 
-  * [百度云:李明杰-广州创业一期iOS教程-UI补充](http://pan.baidu.com/s/1sjFwDHz) (讲师：李德山)
+  * [百度云:李明杰-广州创业一期iOS教程-UI补充](http://pan.baidu.com/s/1sjFwDHz)       (讲师：李德山)
 
-  * [百度云:李明杰-广州创业一期iOS教程-多线程网络](http://pan.baidu.com/s/1gdIyQAn) (讲师：李明杰)
+  * [百度云:李明杰-广州创业一期iOS教程-多线程网络](http://pan.baidu.com/s/1gdIyQAn)   (讲师：李明杰)
 
-  * [百度云:李明杰-广州创业一期iOS教程-微博项目](http://pan.baidu.com/s/1c0r07qo) (讲师：。。。)
+  * [百度云:李明杰-广州创业一期iOS教程-微博项目](http://pan.baidu.com/s/1c0r07qo)     (讲师：____)
 
-  * [百度云:李明杰-广州创业一期iOS教程-数据库](http://pan.baidu.com/s/1eQlqQFC) (讲师：。。。)
+  * [百度云:李明杰-广州创业一期iOS教程-数据库](http://pan.baidu.com/s/1eQlqQFC)       (讲师：____)
 
-  * [百度云:李明杰-广州创业一期iOS教程-XMMP微信项目](http://pan.baidu.com/s/1kTB5hcj) (讲师：。。。)
+  * [百度云:李明杰-广州创业一期iOS教程-XMMP微信项目](http://pan.baidu.com/s/1kTB5hcj) (讲师：_____)
 
 ##技术能力
 
