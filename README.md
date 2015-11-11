@@ -8,7 +8,7 @@
 
 **性别**：男
 
-**学校专业**：杭州师范大学国际服务工程学院  计算机科学与技术专业
+**学校专业**：杭州师范大学国际服务工程学院 - 计算机科学与技术专业
 
 **Github**：[https://github.com/Dev-iOS-Study](https://github.com/Dev-iOS-Study)
 
