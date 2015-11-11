@@ -34,6 +34,7 @@
 
   * [百度云:李明杰-广州创业一期iOS教程-XMMP微信项目](http://pan.baidu.com/s/1kTB5hcj) (讲师：_____)
 
+**来至github的iOS之旅**：[trip-to-iOS](https://github.com/Dev-iOS-Study/trip-to-iOS)
 ##技术能力
 
 向往Apple神一样的公司，喜欢Apple的产品，喜欢iOS，热爱编程。每解决一个技术难题总能给我强烈地满足感与成就感，我希望能用技术创造更多有意义的东西。
