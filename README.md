@@ -50,7 +50,7 @@
 * 掌握iOS基础框架的使用： NSFoundation
 * 掌握iOS界面框架的使用： UIKit
 * 掌握iOS基本的开发模式： MVC模式
-* 掌握iOS的数据存储方式： plist
+* 掌握iOS的数据解析方式： plist
 * 掌握iOS的数据传输方式： HTTP
 
 ##个人经历
