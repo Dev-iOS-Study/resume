@@ -28,7 +28,7 @@
 
   * [百度云:李明杰-广州创业一期iOS教程-UI补充](http://pan.baidu.com/s/1sjFwDHz)       (讲师：郭永峰)
 
-  * [百度云:李明杰-广州创业一期iOS教程-多线程网络](http://pan.baidu.com/s/1gdIyQAn)   (讲师：李明杰)
+  * [百度云:李明杰-广州创业一期iOS教程-多线程网络](http://pan.baidu.com/s/1gdIyQAn)   (讲师：刘天源)
 
   * [百度云:李明杰-广州创业一期iOS教程-微博项目](http://pan.baidu.com/s/1c0r07qo)     (讲师：李明杰)
 
